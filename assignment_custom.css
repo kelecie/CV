@@ -1,0 +1,105 @@
+
+body{
+  margin: auto;
+  padding: 0;
+  background-color:rgb(241, 241, 241);
+}
+
+section {
+  padding: 50px 0;
+}
+
+/* container */
+
+.container {
+  margin: 0 auto;
+  max-width: 1060px;
+  max-height: 2000px;
+  width: 100%;
+  background-color: silver;
+  border-radius: 15px;
+  }
+
+
+  /*LEFT COLUMN*/
+
+.col-x-100 {
+  margin-bottom: 15px;
+}
+
+.head{
+  background:rgb(0,150,136);
+  color: white;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.container__list1{
+  border-radius: 16px;
+  width: 50%;
+  background:rgb(0,150,136);
+  color: white;
+  text-align: center;
+}
+.container__list2{
+  border-radius: 16px;
+  width: 20%;
+  background:rgb(0,150,136);
+  color: white;
+  text-align: center;
+}
+.container__list3{
+  border-radius: 16px;
+  width: 70%;
+  background:rgb(0,150,136);
+  color: white;
+  text-align: center;
+}
+.container__list4{
+  border-radius: 16px;
+  width: 70%;
+  background:rgb(0,150,136);
+  color: white;
+  text-align: center;
+}
+.container__list5{
+  border-radius: 16px;
+  width: 65%;
+  background:rgb(0,150,136);
+  color: white;
+  text-align: center;
+}
+.box__full{
+  height: 1100px;
+  background: white;
+  padding: 0 8px;
+  margin: 10px,10px;
+  color:rgb(0,150,136);
+}
+
+a:hover{
+  color:rgb(0,150,136);
+}
+
+
+
+  .container__list:hover{
+    color: blue;
+  }
+   /*LEFT COLUMN*/
+
+
+    /*RIGHT COLUM*/
+
+    
+
+.box__small{
+  height: 500px;
+  background: white;
+  padding: 0 8px;
+  margin: 10px,10px;
+  
+
+}
+
+    /*RIGHT COLUMN*/
